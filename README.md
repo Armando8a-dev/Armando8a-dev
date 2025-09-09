@@ -1,6 +1,6 @@
 <!-- Banner personalizado (cambia la URL por la tuya de Canva o Figma exportada en PNG) -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGyg-thx_A/ExJZxup-eR6iI_rIV1Ta7A/edit?ui=e30" alt="Banner" />
+  <img src="https://github.com/Armando8a-dev/Armando8a-dev/blob/main/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">👋 ¡Hola, soy Armando!</h1>
