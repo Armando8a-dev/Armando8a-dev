@@ -59,7 +59,7 @@
   <a href="www.linkedin.com/in/armando-ochoa-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://tu-portafolio.com" target="_blank">
+  <a href="https://armandochoa.com" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
   <a href="mailto:armaochoa99@gmail.com">
