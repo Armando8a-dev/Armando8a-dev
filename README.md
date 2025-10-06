@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Spring%20Tool-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
-<!---
+
 
 ## 📈 Mis estadísticas de GitHub
 
@@ -51,12 +51,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
---->
+
 
 ## 🌍 Conecta conmigo  
 
 <p align="center">
-  <a href="www.linkedin.com/in/armando-ochoa-dev" target="_blank">
+  <a href="www.linkedin.com/in/armando-ochoa-data-analyst" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://armandochoa.com" target="_blank">
