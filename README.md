@@ -42,10 +42,11 @@
 
 
 ## 📈 Mis estadísticas de GitHub
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Armando8a-dev&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
+--->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armando8a-dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
