@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Armando</h1>
 <h3 align="center">Full Stack Web3 Developer | Solidity & Smart Contracts | Fintech Engineering → DeFi</h3>
