@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
 
 <h1 align="center">👋 Hi, I'm Armando</h1>
 <h3 align="center">Full Stack Web3 Developer | Solidity & Smart Contracts | Fintech Engineering → DeFi</h3>
@@ -16,16 +18,9 @@
 
 ---
 
-### 🔗 Featured Web3 Projects
+### 🔗 Web3 Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[BestSwap](https://github.com/Armando8a-dev/best-swap)** | Uniswap V2 swap wrapper with on-chain slippage protection via `getAmountsOut`, avoiding stale off-chain price data | Solidity, Foundry, Next.js/wagmi |
-| **[YieldGarden](https://github.com/Armando8a-dev/yield-garden)** | ERC-20 staking protocol with per-second reward accrual and a gas-efficient checkpoint model | Solidity, Foundry |
-| **[GoalFund](https://github.com/Armando8a-dev/goal-fund)** | Trustless crowdfunding contract — creator withdraws if the goal is met, donors are auto-refunded if not, with reentrancy-safe logic | Solidity, Foundry |
-| **[ProofPass](https://github.com/Armando8a-dev/proof-pass)** | Soulbound (non-transferable) ERC-721 credential system with owner-controlled revoke/re-issue logic | Solidity, Foundry |
-
-All contracts are tested with Foundry, including fuzz testing. 👉 [More projects on my GitHub](https://github.com/Armando8a-dev?tab=repositories)
+My 4 pinned repos below (**BestSwap**, **YieldGarden**, **GoalFund**, **ProofPass**) cover DEX interaction, staking, crowdfunding, and NFT credentials — all built with Solidity + Foundry, tested with fuzzing. 👉 [More projects on my GitHub](https://github.com/Armando8a-dev?tab=repositories)
 
 ---
 
@@ -54,7 +49,7 @@ All contracts are tested with Foundry, including fuzz testing. 👉 [More projec
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Data Analysis**
+**Data Analysis** *(fintech background)*
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
